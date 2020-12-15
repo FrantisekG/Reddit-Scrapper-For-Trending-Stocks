@@ -1,1 +1,1 @@
-# Projects
+Reddit Scrapper for Trending Stocks

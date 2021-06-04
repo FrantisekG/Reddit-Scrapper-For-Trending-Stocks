@@ -1,3 +1,3 @@
-# Reddit Scrapper For Trending Stocks
+# Reddit Scrapper For Trending Cryptocurrency Post
 
-Script that downloads top trending stocks via Reddit API. 
+Script that downloads top trending posts regarding cryptocurrencies via Reddit API. 
